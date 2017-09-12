@@ -8,6 +8,7 @@ v.1.0.1 (08/18/2017)
 This theme is for use with Plank dock for Linux.
 
 ![DopePanel](/DopePanel.png)
+
 (Shown here with Elementary OS default icons.)
 
 ### Instructions:
