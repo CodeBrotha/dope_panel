@@ -4,11 +4,12 @@ v.1.0.1 (08/18/2017)
 
 
 ### DopePanel - Dock Theme for Plank Dock
+---
 This theme is for use with Plank dock for Linux.
 
 ![DopePanel](/DopePanel.png)
+(Shown here with Elementary OS default icons.)
 
----
 ### Instructions:
 
 ##### Clone this repo or download the zip file and extract it.
