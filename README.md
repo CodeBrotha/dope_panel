@@ -11,9 +11,7 @@ This theme is for use with Plank dock for Linux. (Shown here with Elementary OS 
 
 ### Instructions:
 
-##### Clone this repo or download the zip file and extract it.
-
-##### Install the theme:
+##### Install Plank:
 * Install plank if you haven't already.
 
   In Terminal enter these commands:
@@ -21,6 +19,13 @@ This theme is for use with Plank dock for Linux. (Shown here with Elementary OS 
   sudo add-apt-repository ppa:ricotz/docky
   sudo apt-get update
   sudo apt-get install plank
+  ```
+##### Install the theme:
+* Clone this repo or download the zip file and extract it.
+
+  To clone this repo, in Terminal enter:
+  ```
+  git clone https://github.com/neycodes/dope_panel
   ```
 
 * Open Terminal in the folder where you cloned the theme or extracted the zip.
