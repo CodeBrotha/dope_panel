@@ -25,7 +25,7 @@ This theme is for use with Plank dock for Linux. (Shown here with Elementary OS 
 
   To clone this repo, in Terminal enter:
   ```
-  git clone https://github.com/neycodes/dope_panel
+  git clone https://github.com/codebrotha/dope_panel
   ```
 
 * Open Terminal in the folder where you cloned the theme or extracted the zip.
